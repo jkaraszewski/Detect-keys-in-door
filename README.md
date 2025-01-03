@@ -46,13 +46,13 @@ For instance, when the door to the bedroom is closed during specific hours, a ca
 Below are the example images used in this script:
 
 1. **Reference Image (`image_without_keys.png`):**
-   ![Image Without Keys](images\image_without_keys.png)
+   ![Image Without Keys](./images/image_without_keys.png)
 
 2. **Image to Check (`image_to_check.png`):**
-   ![Image to Check](images\image_to_check.png)
+   ![Image to Check](./images/image_to_check.png)
 
 3. **Region of Interest (`region_of_interest.png`):**
-   ![Region of Interest](images\region_of_interest.png)
+   ![Region of Interest](./images/region_of_interest.png)
 
 ### Script Overview
 
